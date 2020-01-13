@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>P6. Image Processing</title>
+</head>
+
+<body>
+<a name="Picture">
+<h2>Image processing</h2>
+</a>
+<p>In this project, you will implement code to process digital images. A <em>digital image</em> is a rectangular grid of <em>pixels</em> (picture elements), where the color of each pixel is individually defined.   In this project, we work with  the types of images  are referred to as <em>vector</em> images.
+</p>
+<p><img src="picture-anatomy.png" width="200" height="276" alt=""/></p>
+<p> We provided a data type called Picture. The Picture data type allows you to manipulate digital images. You can load an image file using </p>
+<p>Picture pic = new Picture(fileName);</p>
+<p>Once loaded, you can manuplate the image using. For example: set the value of a pixel to a given color, and extract the color of a given pixel. The following API summarizes the available operations: </p>
+<p> </p>
+<blockquote> <img src="https://introcs.cs.princeton.edu/java/11cheatsheet/images/picture-api.png" alt="Picture API" width="500"></blockquote>
+<p>Most image-processing programs are filters that scan through all of the pixels in a source image and then perform some computation to determine the color of each pixel in a target image. In this project, you will implement code to flip (mirror) an image. For example:</p>
+<p>Original Image:</p>
+<p><img src="images/team.jpg" width="540" height="440" alt=""/></p>
+<p>Mirror image:</p>
+<p><img src="images/team-mirror.jpg" width="540" height="440" alt=""/></p>
+</body>
+</html>

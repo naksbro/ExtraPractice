@@ -1,0 +1,124 @@
+- Add this notes to your interview questions using unix command-
+
+
+How many Members on your team?
+ -- Stake Holder / Owner
+
+ 1 - Product Owner
+ 1 - Scrum master
+ 4 - Developers
+ 2 - Testers
+
+ 1 - Business Analyst 
+
+- Product Owner = They are consider to be the manager his job is to manage and reports our Delivery.
+
+- Scrum master = He facilitates your work. 
+
+- Developers = Develop, Build an application, Unit Testing. 
+
+- Tester = Find a bug, Break a developers application, will meet acceptance Criteria
+
+	Acceptance Criteria: Requirement that must be met, or completed. 
+
+	Example: AC = I should be able to use symbols in the username field
+
+- Business Analyst= they also work as Testers, someone who analyzes an organization or business. 
+
+
+Whats your role in SDLC?
+	- My role in SDLC is a tester
+
+Tell me about your Sprint and How long is your Sprint?
+	In my current project my sprint is every 2 weeks.
+	Every other Wednesday we have Planning meeting which is about 1 hour
+	Also we have our daily Scrum which is about 15 minutes and we discuss what we did yesterday, today and any blockers.
+
+
+
+Tell me about your self?
+	In my current project I am a Automation Engineer I have X years of experience working in different applications, Such as financial, insurance, and healthcare. 
+
+	In my current project I am working in Agile Environment our sprints are every 2 weeks. I Currently hold certifications such as JAVA (OCA),
+	and I have experience with Selenium WebDriver, AWS, and BDD Framework.
+
+	I have experience with Core Java, API, and Database queries. 
+
+	As far as my personality goes I am fast learner, team player and detail oriented. 
+
+Tell me about your Sprint?
+	My project every 2 weeks, we start planning every wednesday, we have our daily stand up, we have grooming, and sprint reviews.
+
+Explain public static void main (string args)?
+	In my current project I have not used public static void main, Since I joined this company I was working with existing methods and I developed my own methods at the same time. 
+
+
+what are primitives?
+	I have experience with primitives some of them are, 
+		boolean 
+		short	
+		bite
+		long
+		char		
+		double
+		float
+		int			
+
+What is the function of grep?
+	I have experience with grep when I am searching a specific word in a log file. 
+		Example:
+
+			file			contains
+
+			Class.txt 	 	Java is the best
+
+			/grep "best" Class.txt
+
+			result: Java is the best
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
